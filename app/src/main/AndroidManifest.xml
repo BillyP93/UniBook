@@ -44,10 +44,15 @@
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps" />
         <activity android:name=".ChatActivity"></activity>
+
+        <activity
+            android:name=".Chat_Room"/>
+
+
+
     </application>
 
-    <activity
-        android:name=".Chat_Room"/>
+
 
 
 </manifest>
