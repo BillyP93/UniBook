@@ -46,4 +46,8 @@
         <activity android:name=".ChatActivity"></activity>
     </application>
 
+    <activity
+        android:name=".Chat_Room"/>
+
+
 </manifest>
